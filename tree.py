@@ -46,5 +46,5 @@ def distance(species1, species2, tree):
 print_clades(tree)
 print_species(tree)
 print_tree(tree)
-print(depth('Gorilla', tree))
+print(depth('Gibbon', tree))
 print(distance('Human', 'Gorilla', tree))
